@@ -1,2 +1,7 @@
 # Prep.
-A content management system featuring a mobile application and a website. Built in collaboration with the Cardiology Department of St. Thomas Hospital in London.
+
+A content management system consisting of a website and a multiplatform mobile application.
+
+![Mobile application screenshots](media/prep_screenshots.png)
+
+![Sample Video](media/screencast_compressed.mp4)

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50ebfdcb-df25-4520-b66c-0712a000d8d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../prep/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/java/com/bebsi/prep/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/drawable-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/drawable-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/drawable-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/drawable-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/drawable-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/icon/android/adaptive/prep_icon_android_adaptive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/icon/android/prep_icon_android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/icon/ios/prep_icon_ios.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/beef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/chicken.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/curry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/eggs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/fish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/pasta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/pie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/pizza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/roast.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/salad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/sandwich.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/soup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/steak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/stew.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/vegetable.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/assets/images/recipes/wrap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/GoogleService-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/appointment.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/appointment_info.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/appointment_prep.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/daily_checkups.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/dashboard.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/empty_screen_placeholder.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/faq_parser.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/information_parser.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/list_parser.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/messaging.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/screens/recipeList.screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/utils/backend.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/utils/backend_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/utils/constants.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/utils/document_data_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/utils/message_crypto.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/utils/misc_functions.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/utils/storage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/appointment_info/appointment_banner.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/appointment_prep/category_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/dashboard/calendar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/dashboard/calendar_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/dashboard/calendar_label.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/dashboard/help_dialog.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/faq_parser/faq_expansion_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/list_parser/description_expansion_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/messaging/messages_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/messaging/text_composer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/error_recipe_not_found.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/external_recipe_link.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_card_body.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_card_content.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_card_header.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_card_widgets_export.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_ingredient_list.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_ingredient_list_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_method_list.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_method_list_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/lib/widgets/recipe/recipe_note.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/appointment_info_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/appointment_prep_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/appointment_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/daily_checkups_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/dashboard_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/empty_screen_placeholder_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/faq_parser_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/information_parser_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/list_parser_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/screens_test/messaging_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/utils_test/misc_functions_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/appointment_info_test/appointment_banner_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/appointment_prep_test/category_card_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/dashboard_test/calendar_card_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/dashboard_test/calendar_label_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/dashboard_test/calendar_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/dashboard_test/help_dialog_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/faq_parser_test/faq_expansion_tile_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/list_parser_test/description_expansion_tile_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prep/test/widgets_test/recipe_test/recipe_card_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.firebase/hosting.ZGlzdA.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/appointmentTests/addAppointmentTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/appointmentTests/editAppointmentTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/appointmentTests/viewAppointment.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/appointmentTests/viewAppointmentsTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/authTests/__snapshots__/loginTest.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/authTests/__snapshots__/registerTest.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/authTests/__snapshots__/resetPasswordTest.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/authTests/loginTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/authTests/registerTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/authTests/resetPasswordTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/dailycheckupsTests/editDailycheckupsTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/dailycheckupsTests/newDailycheckupsTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/dailycheckupsTests/viewDailycheckupsInfoTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/dailycheckupsTests/viewDailycheckupsTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/faqsTests/editPrepFaq.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/faqsTests/newPrepFaq.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/listsTests/editPrepList.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/listsTests/newListTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/listsTests/viewPrepListTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/listsTests/viewPrepListsTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/messageTests/AESTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/messageTests/messageTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/staffTests/__snapshots__/editStaffTest.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/staffTests/__snapshots__/viewStaffTest.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/staffTests/editStaffTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/__tests__/staffTests/viewStaffTest.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/build/Vue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/database.rules.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/firestore.indexes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/firestore.rules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/report.20190322.140748.22233.001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/report.20190322.140911.22769.001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/report.20190322.140946.22952.001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/assets/Vuelogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/Module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/appointments/AddAppointment.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/appointments/Appointments.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/appointments/EditAppointment.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/appointments/PastAppointments.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/appointments/ViewAppointment.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/appointments/ViewAppointments.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/auth/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/auth/Register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/auth/ResetPassword.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/firebaseConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/firebaseInit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/messages/Message.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/navigation/Navbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/navigation/Sidebar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/shared/ImageUploader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/shared/TextEditor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/staff/EditStaff.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/staff/ViewStaff.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/AddTest.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/EditTestDescription.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/ViewTests.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/articles/AddArticle.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/articles/EditArticle.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/articles/ViewArticles.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/dailycheckups/EditDailyCheckups.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/dailycheckups/NewDailyCheckups.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/dailycheckups/ViewDailyCheckups.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/dailycheckups/ViewDailyCheckupsInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/faqs/EditPrepFaq.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/faqs/NewPrepFaq.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/faqs/ViewPrepFaqs.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/lists/EditPrepList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/lists/NewList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/lists/ViewPrepList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/lists/ViewPrepLists.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/recipes/EditRecipe.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/recipes/NewRecipe.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/recipes/ViewRecipeInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/components/tests/recipes/ViewRecipes.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/appointmentsMixin/appointmentMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/appointmentsMixin/view_appointmentsMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/articleMixin/articleMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/articleMixin/articleQueryMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/authMixin/authMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/dailycheckupsMixin/dailycheckupMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/faqsMixin/faqsMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/listsMixin/listsMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/messagesMixin/messageMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/navigationMixin/navigationMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/recipeMixin/recipeMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/recipeMixin/recipeQueryMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/testMixin/testMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/testMixin/testQueryMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/mixins/usersMixin/userMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/security/AES.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/webIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/storage.rules" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="77052620">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="dart" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Dart" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="26" />
+    <option name="y" value="23" />
+    <option name="width" value="1228" />
+    <option name="height" value="731" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in test" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testDir" value="$PROJECT_DIR$/test" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter Test.tests in test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.tests in test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50ebfdcb-df25-4520-b66c-0712a000d8d4" name="Default Changelist" comment="" />
+      <created>1553909718419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553909718419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="tests_in_test - 2019.03.30 at 01h 37m 57s.xml">
+      <configuration name="tests in test" configurationId="FlutterTestConfigType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="26" y="23" width="1228" height="731" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35497472" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.42465752" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.3051948" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.28246754" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
